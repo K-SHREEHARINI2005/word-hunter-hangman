@@ -14,24 +14,6 @@ Cartoons
 🎮 Interactive on-screen keyboard
 🪢 Animated hangman drawing
 🔙 Back button navigation
-hangman-game/
-│
-├── hangman.py
-└── assets/
-    ├── loading.jpg
-    ├── menu.jpg
-    ├── food.jpg
-    ├── animal.jpg
-    ├── anime.jpg
-    ├── catroon.jpg
-    ├── music.mp3
-    ├── correct.mp3
-    ├── wrong.mp3
-    └── click.mp3
-└── screenshots/
-    ├── start.png
-    ├── category_menu.png
-    └── gameplay.png
     
 How to Play
 *Click START to begin.
